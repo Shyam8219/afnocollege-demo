@@ -1,4 +1,7 @@
 # afnocollege-demo
-This is my first git repository.
+This is my ofirst git repository.
 <br>
-Author- reban funtu
+Author- reban (jaisi)
+
+
+ 
