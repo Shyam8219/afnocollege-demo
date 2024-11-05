@@ -1,7 +1,7 @@
 # afnocollege-demo
 This is my ofirst git repository.
 <br>
-Author- reban (ruiet)
+Author- reban (sapkota)
 
 
  
